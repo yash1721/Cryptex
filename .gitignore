@@ -1,2 +1,6 @@
+# Ignore Node.js modules folder
 node_modules
+# Ignore environment configuration files
 .env
+#Ignore IDE files
+.vscode/
