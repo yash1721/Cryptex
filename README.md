@@ -93,14 +93,15 @@ To set up Cryptex on your local machine, follow these steps:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/your-repository-link.git
-2.  **Install Dependencies**  
+   ```
+2. **Install Dependencies**  
    ```bash
    npm install
-```
-3.  **Start the Development Server**  
+   ```
+3. **Start the Development Server**  
    ```bash
    npm start
-```
+   ```
 4. **Access the Application :**
    Navigate to http://localhost:3000 in your browser.
 
