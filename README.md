@@ -22,6 +22,11 @@ Cryptex is an all-in-one platform for **cryptocurrency trading**, **asset manage
 
 ---
 
+## 🎥 Video Demonstration
+
+Check out the project in action: [Watch the Video](https://drive.google.com/file/d/1JWkJPlKfg0H9qHkYBEwWSdr14mL1HhOg/view)
+
+---
 ## ✨ **Features**
 
 ### 🔐 **Authentication and Authorization**
